@@ -1,6 +1,6 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Jan 2025 18:00:01 at https://www.mittalgroup.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Jan 2025 18:00:01 at https://www.silvercolin.co.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.mittalgroup.co.in/ -O1 "C:\Users\yagni\Desktop\YK\builders demmo 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.silvercolin.co.in/ -O1 "C:\Users\yagni\Desktop\YK\builders demmo 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 
 
@@ -16,17 +16,17 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 18:03:56	Error: 	Exit requested by shell or user
 
-18:03:58	Warning: 	Moved Permanently for https://www.mittalgroup.co.in/ganpati-enclave/
+18:03:58	Warning: 	Moved Permanently for https://www.silvercolin.co.in/ganpati-enclave/
 
-18:03:58	Warning: 	File has moved from https://www.mittalgroup.co.in/ganpati-enclave/ to https://www.mittalgroup.co.in/ganpati-enclave-bathinda/
+18:03:58	Warning: 	File has moved from https://www.silvercolin.co.in/ganpati-enclave/ to https://www.silvercolin.co.in/ganpati-enclave-bathinda/
 
-18:03:58	Warning: 	Moved Permanently for https://www.mittalgroup.co.in/sheesh-mahal/
+18:03:58	Warning: 	Moved Permanently for https://www.silvercolin.co.in/sheesh-mahal/
 
-18:03:58	Warning: 	File has moved from https://www.mittalgroup.co.in/sheesh-mahal/ to https://www.mittalgroup.co.in/sheesh-mahal-bathinda/
+18:03:58	Warning: 	File has moved from https://www.silvercolin.co.in/sheesh-mahal/ to https://www.silvercolin.co.in/sheesh-mahal-bathinda/
 
 18:04:01	Error: 	Exit requested by shell or user
 
-18:04:01	Error: 	"" (-1) at link https://www.mittalgroup.co.in/news-media/ (from https://www.mittalgroup.co.in/)
+18:04:01	Error: 	"" (-1) at link https://www.silvercolin.co.in/news-media/ (from https://www.silvercolin.co.in/)
 
 18:04:01	Error: 	Exit requested by shell or user
 
